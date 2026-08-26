@@ -23,11 +23,6 @@ Google Fonts
 
 
 ## Getting Started
-Clone the repository
-git clone https://github.com/your-username/raksha-bandhan-webpage.git
-Open the project
-cd raksha-bandhan
-
 Open index.html directly in your browser.
 
 Alternatively, use VS Code with the Live Server extension.
@@ -69,7 +64,7 @@ The main colors are defined in the CSS variables:
   --ink:#2A140C;
 }
 
-Modify these values to create your own color theme.
+Modify these values to create your own colour theme.
 Responsive Design
 The website is designed to work across different screen sizes using responsive CSS, viewport-based sizing, and mobile-specific behavior.
 The custom cursor is automatically disabled on touch devices.
@@ -83,5 +78,6 @@ Safari
 ## License
 This project is free to use, modify, and customize for personal and educational purposes.
 
-## STORYMINT STUDIO
-Created as an interactive digital Raksha Bandhan experience.
+## SGHOSH-TECH
+With ❤️ from SG 
+Jai Hind......
