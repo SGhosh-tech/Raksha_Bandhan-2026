@@ -23,8 +23,10 @@ Google Fonts
 
 
 ## Getting Started
+Just click on the URL& see the magic: https://sghosh-tech.github.io/Raksha_Bandhan-2026/
+            OR
 Open index.html directly in your browser.
-
+            OR
 Alternatively, use VS Code with the Live Server extension.
 
 ## How It Works
